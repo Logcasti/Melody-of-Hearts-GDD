@@ -15,6 +15,8 @@ No part of this work may be:
 
 …without explicit written permission and a paid licensing agreement from the author.
 
+---
+
 Prohibited Use:  
 The following are strictly prohibited without permission:
 - Copying or adapting the specific implementation, structure, or written expression of mechanics described in this document — including instrument-based combat systems, stat balancing (weight, energy, damage, range), and difficulty modes such as Virtuosity  
@@ -23,10 +25,30 @@ The following are strictly prohibited without permission:
 - Reusing terminology, formatting, or progression systems described herein  
 - Creating derivative games, documents, or media based on this work
 
+---
+
+Permitted Sharing:  
+This document may be shared publicly for **portfolio, educational, or commentary purposes** under the following conditions:
+- The document must remain **unaltered** and **complete**, including this license notice.
+- Visible credit to Logan Castillero must be retained.
+- No part of the document may be reused, adapted, or incorporated into other works without explicit permission.
+- Sharing must not imply endorsement, partnership, or licensing rights.
+
+Examples of permitted sharing:
+- Linking to this GitHub repository
+- Including the document in a personal portfolio
+- Referencing the document in academic or professional discussions
+
+Any other use — including reproduction, modification, or commercial exploitation — requires a paid licensing agreement.
+
+---
+
 Disclaimer:  
 General concepts (e.g., musical genres, RPG structure, stat-based combat) are not claimed. However, any use of similar ideas must be independently developed and must not replicate the structure, expression, or execution found in this document.
 
 This document is a work-in-progress. All content, including unfinished sections and placeholder elements, is protected under copyright law and subject to the same licensing terms.
+
+---
 
 Licensing & Contact:  
 To request licensing terms or commercial use rights, contact:  
