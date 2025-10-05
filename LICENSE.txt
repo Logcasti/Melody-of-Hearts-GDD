@@ -1,0 +1,38 @@
+© 2025 Logan Castillero. All rights reserved.
+
+This Game Design Document (Melody of Hearts v1.01) is an original creative work protected under U.S. and international copyright law.
+
+All content within this document — including but not limited to written descriptions, character arcs, gameplay systems, mechanics, terminology, formatting, structure, and world-building — is the intellectual property of Logan Castillero.
+
+No part of this work may be:
+- Reproduced
+- Adapted
+- Translated
+- Transmitted
+- Published
+- Commercialized
+- Incorporated into derivative works
+
+…without explicit written permission and a paid licensing agreement from the author.
+
+Prohibited Use:  
+The following are strictly prohibited without permission:
+- Copying or adapting the specific implementation, structure, or written expression of mechanics described in this document — including instrument-based combat systems, stat balancing (weight, energy, damage, range), and difficulty modes such as Virtuosity  
+- Using character arcs, including Lucy’s journey, emotional themes, or rival dynamics  
+- Reproducing world structures, genre-based regions, or boss fight choreography  
+- Reusing terminology, formatting, or progression systems described herein  
+- Creating derivative games, documents, or media based on this work
+
+Disclaimer:  
+General concepts (e.g., musical genres, RPG structure, stat-based combat) are not claimed. However, any use of similar ideas must be independently developed and must not replicate the structure, expression, or execution found in this document.
+
+This document is a work-in-progress. All content, including unfinished sections and placeholder elements, is protected under copyright law and subject to the same licensing terms.
+
+Licensing & Contact:  
+To request licensing terms or commercial use rights, contact:  
+Logan Castillero  
+Email: lcasti13@charlotte.edu  
+GitHub: https://github.com/Logcasti
+
+Use of this concept must retain visible credit to Logan Castillero as the original designer.  
+Unauthorized use may result in takedown notices, legal action, and claims for damages.
