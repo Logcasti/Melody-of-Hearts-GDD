@@ -8,7 +8,7 @@ No part of this work may be:
 - Reproduced
 - Adapted
 - Translated
-- Transmitted
+- Transmitted for reuse, redistribution, or commercial purposes
 - Published
 - Commercialized
 - Incorporated into derivative works
@@ -39,7 +39,7 @@ Examples of permitted sharing:
 - Including the document in a personal portfolio
 - Referencing the document in academic or professional discussions
 
-Any other use — including reproduction, modification, or commercial exploitation — requires a paid licensing agreement.
+Any other use — including reproduction, modification, or **commercial exploitation** (i.e., use for financial gain or business benefit) — requires a paid licensing agreement.
 
 ---
 
