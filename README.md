@@ -30,7 +30,9 @@ GitHub: https://github.com/Logcasti
 
 Version: Draft v1.01  
 Last Updated: October 2, 2025  
-Development Stage: Design finalized, documentation bundled, licensing enforced
+Development Stage: Design in progress; documentation actively bundled; licensing terms enforced and publicly visible  
+Status: Repository published for controlled public viewing under custom license  
+Visibility: View-only; reuse prohibited without paid licensing agreement
 
 ## Credits
 
